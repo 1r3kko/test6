@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad5fe5f1-79e5-4b68-9709-799ecc22321e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../test6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test6/src/MyProject/Models/ActiveRecordEntity.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/erusev/parsedown" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1kv9MVMI5IFx6wGJTsQRG8Amk6M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../myshop.local" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad5fe5f1-79e5-4b68-9709-799ecc22321e" name="Default Changelist" comment="" />
+      <created>1606570149889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606570149889</updated>
+      <workItem from="1606570150926" duration="164000" />
+      <workItem from="1607442444067" duration="187000" />
+      <workItem from="1607452601306" duration="1737000" />
+      <workItem from="1607532304250" duration="758000" />
+      <workItem from="1607705318677" duration="4644000" />
+      <workItem from="1607752673998" duration="60000" />
+      <workItem from="1607752746460" duration="2707000" />
+      <workItem from="1608014970114" duration="11000" />
+      <workItem from="1610605757731" duration="2000" />
+      <workItem from="1610605767487" duration="4571000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="538" key="FileChooserDialogImpl" timestamp="1610605772597">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="223" y="538" key="FileChooserDialogImpl/0.40.1920.1040@0.40.1920.1040" timestamp="1610605772597" />
+  </component>
+</project>

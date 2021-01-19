@@ -1,0 +1,19 @@
+<?php
+
+use Illuminate\Database\Seeder;
+
+class DatabaseSeeder extends Seeder
+{
+    /**
+     * Seed the application's database.l
+     *
+     * @return void
+     */
+    public function run()
+    {
+        $this->call(UsersTableSeeder::class);
+        $this->call(BlogCategoriesTableSeeder::class);
+        factory(\App\Models\BlogPost::class, 100)->create();
+        // $this->call(UsersTableSeeder::class);
+    }
+}

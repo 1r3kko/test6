@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a9fe7831-da8c-4bc0-9dd5-88eb2c74a5b8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../test6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test6/src/MyProject/Models/ActiveRecordEntity.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1lgNUOCn9JRlNO3aKT3pveQ5pMr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/laravel1/laravel/app/Http/Requests" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\OpenServer5.3.7\OpenServer\domains\test5\laravel1\laravel\app\Http\Requests" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9fe7831-da8c-4bc0-9dd5-88eb2c74a5b8" name="Default Changelist" comment="" />
+      <created>1608014788339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608014788339</updated>
+      <workItem from="1608014789371" duration="109000" />
+      <workItem from="1608015053079" duration="1802000" />
+      <workItem from="1608102481184" duration="2000" />
+      <workItem from="1608190809766" duration="8265000" />
+      <workItem from="1608219191867" duration="595000" />
+      <workItem from="1608279169151" duration="5418000" />
+      <workItem from="1608311454013" duration="2000" />
+      <workItem from="1608535094331" duration="6796000" />
+      <workItem from="1608968518404" duration="2000" />
+      <workItem from="1609070016837" duration="2000" />
+      <workItem from="1609269004769" duration="53000" />
+      <workItem from="1610358266573" duration="3423000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1380" y="589" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1608541789825">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="1380" y="589" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1608541789825" />
+    <state x="721" y="506" key="FileChooserDialogImpl" timestamp="1608014897263">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="721" y="506" key="FileChooserDialogImpl/0.40.1920.1040@0.40.1920.1040" timestamp="1608014897263" />
+    <state x="500" y="320" key="SettingsEditor" timestamp="1609269029804">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="500" y="320" key="SettingsEditor/0.40.1920.1040@0.40.1920.1040" timestamp="1609269029804" />
+  </component>
+</project>
