@@ -1,0 +1,13 @@
+        .layout {
+            width: 100%;
+            max-width: 1024px;
+            margin: auto;
+            background-color: white;
+            border-collapse: collapse;
+        }
+
+        .layout tr td {
+            padding: 20px;
+            vertical-align: top;
+            border: solid 1px gray;
+        }

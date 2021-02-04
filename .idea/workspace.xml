@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad5fe5f1-79e5-4b68-9709-799ecc22321e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../myshop.local/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myshop.local/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test6/src/MyProject/Models/ActiveRecordEntity.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1kv9MVMI5IFx6wGJTsQRG8Amk6M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates/js" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\OpenServer5.3.7\OpenServer\domains\test8\templates\js" />
+      <recent name="E:\OpenServer5.3.7\OpenServer\domains\test6\src\MyProject\Models\Works" />
+      <recent name="E:\OpenServer5.3.7\OpenServer\domains\test6\src\MyProject\Models\Users" />
+      <recent name="E:\OpenServer5.3.7\OpenServer\domains\test6\src\MyProject\Models\Statistics" />
+      <recent name="E:\OpenServer5.3.7\OpenServer\domains\test6\src\MyProject\Models\Rooms" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\OpenServer5.3.7\OpenServer\domains\test8\www" />
+      <recent name="E:\OpenServer5.3.7\OpenServer\domains\test6\src\MyProject\Models" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad5fe5f1-79e5-4b68-9709-799ecc22321e" name="Default Changelist" comment="" />
+      <created>1606570149889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606570149889</updated>
+      <workItem from="1606570150926" duration="164000" />
+      <workItem from="1607442632938" duration="885000" />
+      <workItem from="1607443554956" duration="10970000" />
+      <workItem from="1607532304964" duration="15437000" />
+      <workItem from="1607584467897" duration="10801000" />
+      <workItem from="1607603986055" duration="11302000" />
+      <workItem from="1607693092381" duration="4243000" />
+      <workItem from="1607700677261" duration="5000" />
+      <workItem from="1607705303209" duration="12677000" />
+      <workItem from="1607752735490" duration="9691000" />
+      <workItem from="1607856394911" duration="3000" />
+      <workItem from="1608014451841" duration="333000" />
+      <workItem from="1612426893662" duration="12121000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="432" y="40" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1612427832308">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="432" y="40" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1612427832308" />
+    <state x="608" y="480" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1607707000337">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="608" y="480" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1607707000337" />
+    <state x="79" y="557" key="FileChooserDialogImpl" timestamp="1612430862704">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="79" y="557" key="FileChooserDialogImpl/0.40.1920.1040@0.40.1920.1040" timestamp="1612430862704" />
+    <state x="641" y="433" key="RollbackChangesDialog" timestamp="1612429955961">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="641" y="433" key="RollbackChangesDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1612429955961" />
+    <state x="629" y="378" key="run.anything.popup" timestamp="1607715818090">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="629" y="378" key="run.anything.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1607715818090" />
+    <state x="924" y="321" width="672" height="678" key="search.everywhere.popup" timestamp="1612438584278">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="924" y="321" width="672" height="678" key="search.everywhere.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1612438584278" />
+  </component>
+</project>

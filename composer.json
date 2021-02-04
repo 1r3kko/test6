@@ -1,0 +1,8 @@
+{
+    "name": "gumerov/test2",
+    "type": "project",
+    "license": "proprietary",
+     "autoload": {
+    },    "require": {
+    }
+}
